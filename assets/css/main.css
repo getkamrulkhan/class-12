@@ -1,0 +1,7 @@
+@import url("example a.css");
+@import url("example b.css");
+.a{
+	border-color: gray;
+	border-style: solid;
+
+}
